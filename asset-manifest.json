@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Project-4/static/css/main.afb2581d.chunk.css",
+    "main.js": "/Project-4/static/js/main.4669496d.chunk.js",
+    "main.js.map": "/Project-4/static/js/main.4669496d.chunk.js.map",
+    "runtime-main.js": "/Project-4/static/js/runtime-main.95fce351.js",
+    "runtime-main.js.map": "/Project-4/static/js/runtime-main.95fce351.js.map",
+    "static/css/2.4be38407.chunk.css": "/Project-4/static/css/2.4be38407.chunk.css",
+    "static/js/2.890b3392.chunk.js": "/Project-4/static/js/2.890b3392.chunk.js",
+    "static/js/2.890b3392.chunk.js.map": "/Project-4/static/js/2.890b3392.chunk.js.map",
+    "static/js/3.5f13e582.chunk.js": "/Project-4/static/js/3.5f13e582.chunk.js",
+    "static/js/3.5f13e582.chunk.js.map": "/Project-4/static/js/3.5f13e582.chunk.js.map",
+    "index.html": "/Project-4/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/Project-4/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.afb2581d.chunk.css.map": "/Project-4/static/css/main.afb2581d.chunk.css.map",
+    "static/js/2.890b3392.chunk.js.LICENSE.txt": "/Project-4/static/js/2.890b3392.chunk.js.LICENSE.txt",
+    "static/media/image1.61c7b7e3.jpg": "/Project-4/static/media/image1.61c7b7e3.jpg",
+    "static/media/image2.964105d0.jpg": "/Project-4/static/media/image2.964105d0.jpg",
+    "static/media/image3.10a5d2b5.jpg": "/Project-4/static/media/image3.10a5d2b5.jpg",
+    "static/media/image4.24a305e6.jpg": "/Project-4/static/media/image4.24a305e6.jpg",
+    "static/media/watch1.e6eda55c.jpg": "/Project-4/static/media/watch1.e6eda55c.jpg",
+    "static/media/watch2.b49bcdcd.jpg": "/Project-4/static/media/watch2.b49bcdcd.jpg",
+    "static/media/watch3.d63c5592.jpg": "/Project-4/static/media/watch3.d63c5592.jpg",
+    "static/media/watch4.344e8cc6.jpg": "/Project-4/static/media/watch4.344e8cc6.jpg",
+    "static/media/watch5.b8ba5704.jpg": "/Project-4/static/media/watch5.b8ba5704.jpg",
+    "static/media/watch6.de685c0d.jpg": "/Project-4/static/media/watch6.de685c0d.jpg",
+    "static/media/watch7.dfe8a5f7.jpg": "/Project-4/static/media/watch7.dfe8a5f7.jpg",
+    "static/media/watch8.d7bacf97.jpg": "/Project-4/static/media/watch8.d7bacf97.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95fce351.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.890b3392.chunk.js",
+    "static/css/main.afb2581d.chunk.css",
+    "static/js/main.4669496d.chunk.js"
+  ]
+}
